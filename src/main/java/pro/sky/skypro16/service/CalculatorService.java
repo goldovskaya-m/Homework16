@@ -22,7 +22,7 @@ public class CalculatorService {
         return num1 * num2;
     }
 
-    public double calculateDivision(Integer num1, Integer num2) {
+    public double calculateDivision(Integer num1, float num2) {
         return num1 / num2;
     }
 }
